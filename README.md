@@ -11,3 +11,8 @@ An interactive, PDF-aware AI chatbot designed to help university students with t
 - 🧠 **Custom System Prompt**: Tailored to act like a friendly and helpful course assistant.
 - 🔄 **Streaming Responses**: Generates and displays responses in real time.
 - 🧪 **Tools Integration**: Optionally integrates Google Search for broader answer capabilities.
+
+---
+
+## 💻 Demo
+![Demo](Demo.gif)
