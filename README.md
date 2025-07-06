@@ -16,3 +16,22 @@ An interactive, PDF-aware AI chatbot designed to help university students with t
 
 ## 💻 Demo
 ![Demo](Demo.gif)
+
+---
+
+## 🔑 Get a Google Generative AI API Key
+
+To run this project, you must obtain a free API key from Google:
+
+1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey).
+2. Sign in with your Google account.
+3. Click on **"Create API key"**.
+4. Copy the key and replace it in the code:
+
+```python
+client = genai.Client(
+    api_key="YOUR_API_KEY_HERE",
+)
+```
+> ⚠️ **Keep your API key secret.** Never share it publicly or upload it to GitHub.
+
